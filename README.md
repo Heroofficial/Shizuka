@@ -18,7 +18,7 @@ Alternatively, [find me on telegram](https://t.me/HEROGAMERS1)! (Keep all suppor
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shiv9711/Shizuka.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heroofficial/Shizuka.git)
 
 ## Starting the bot.
 
