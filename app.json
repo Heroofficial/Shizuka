@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/Shiv9711/Shizuka",
+  "repository": "hhttps://github.com/Heroofficial/Shizuka",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -37,19 +37,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001368935814"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1005061205"
+      "value": "1005061205 978048105 1049081438"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1005061205"
+      "value": "1005061205 978048105 1049081438"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1005061205"
+      "value": "1005061205 978048105 1049081438"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
